@@ -1,0 +1,3 @@
+[submodule "depend/monero"]
+	path = depend/monero
+	url = git@github.com:monero-project/monero.git
