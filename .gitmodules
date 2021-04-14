@@ -1,3 +1,9 @@
 [submodule "depend/monero"]
 	path = depend/monero
 	url = git@github.com:monero-project/monero.git
+[submodule "autocxx"]
+	path = autocxx
+	url = git@github.com:google/autocxx.git
+[submodule "autocxx-bindgen"]
+	path = autocxx-bindgen
+	url = git@github.com:adetaylor/rust-bindgen.git
